@@ -1,8 +1,13 @@
 {
-  "name": "mdb-react-template",
-  "version": "4.0.0",
-  "description": "template for mdb-react-ui-kit",
-  "private": true,
+  "name": "@mdbootstrap/react-popup",
+  "version": "1.0.0",
+  "description": "Responsive React Popup built with Bootstrap 5. Examples include modal popup, popup box, notification message popup, alert popup, lightbox popup & popup form.",
+  "private": false,
+  "homepage": "https://mdbootstrap.com/docs/react/extended/popup/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/popup"
+  },
   "dependencies": {
     "mdb-react-ui-kit": "^4.0.0",
     "react": "^18.1.0",
@@ -19,7 +24,15 @@
   },
   "keywords": [
     "template",
-    "react"
+    "react",
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-template",
+    "bootstrap-theme",
+    "css",
+    "html",
+    "jsx",
+    "js"
   ],
   "author": "MDBootstrap",
   "license": "MIT",
